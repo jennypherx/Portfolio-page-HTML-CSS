@@ -1,0 +1,135 @@
+/* INDEX.HTML-HOME-PAGE */     /* INDEX.HTML-HOME-PAGE */     /* INDEX.HTML-HOME-PAGE */
+.myname {
+    color: #CBA5D8;
+    text-align: center;
+    font-size: 50px;
+}
+
+#home {
+    background-color: #957c9d; 
+}
+
+header { 
+    background-color: #efe9c1;
+    margin: 0px auto;
+    padding: 0 20px;
+    text-align: center;
+    text-decoration-line: none;
+}
+
+li {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #9664A7;
+    display: inline-block;
+  }
+
+.welcome{
+    width: 100%;
+  }
+
+/* PORTFOLIO PAGE */     /* PORTFOLIO PAGE */     /* PORTFOLIO PAGE */     /* PORTFOLIO PAGE */
+#portfolio {
+    background-color: #efe9c1;
+}
+
+.p-header {
+    background-color: #957c9d; 
+}
+
+.p-title {
+    text-align: center;
+    font-size: 50px;
+    color: #957c9d; 
+}
+
+.p-text {
+    text-align: center;
+    color: rgb(86, 34, 124);
+}
+
+.p-image-1 {
+    display: block;
+    margin-right: auto;
+    width: 50%;
+}   
+
+.p-image-2 {
+    display: block;
+    margin-left: auto;
+    width: 50%;   
+}
+
+.p-goback {
+  padding: 10px 20px;
+  font-size: 24px;
+  cursor: pointer;
+  outline: none;
+  color: #efe9c1;
+  background-color:  #957c9d;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 7px #65624e;
+  font-weight: bold;  
+  text-decoration: solid;
+  text-align: left;  
+}
+
+ /* CONTACT PAGE */     /* CONTACT PAGE */     /* CONTACT PAGE */     /* CONTACT PAGE */
+
+ #contact {
+    background-color:#957c9d;
+ }
+
+ .c-title {
+    text-align: center;
+    color:#CBA5D8;
+    font-size: 50px;
+ }
+
+.c-photo {
+padding: 20px;
+}
+
+.c-h3 {
+    text-align: center;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    background: #007bb5;
+    color: white;
+}
+  
+.linkedin {
+    text-align: center;
+}
+
+.c-goback {
+  padding: 10px 20px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #957c9d;
+  background-color:  #efe9c1;;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 7px #483c4c;
+  font-weight: bold;  
+  text-decoration: solid;
+}
+
+.c-go-back-position {
+    text-align: center;
+    padding: 200px;
+}
+
+.p-go-back-position{
+    text-align: center;  
+}
